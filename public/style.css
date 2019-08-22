@@ -85,6 +85,6 @@ body {
 }
 
 .spinner {
-  height: 100vh;
-  line-height: 100vh;
+  height: 40vh;
+  line-height: 40vh;
 }
